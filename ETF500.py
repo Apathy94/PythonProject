@@ -2,7 +2,7 @@ import tushare as ts
 from matplotlib import pyplot
 import matplotlib.pyplot as plt
 
-TOKEN = '23d23f5a51a2ebaae6f967dffbc2b2d677a042eb6a23288ac3397389' #替换为你的tushare token，注册链接：
+TOKEN = 'xxxxxxxxxxx' #xxxxx替换为你的tushare token，注册链接：https://tushare.pro/register?reg=272804
 
 pro = ts.pro_api(token=TOKEN)  #pro_api需要token
 
